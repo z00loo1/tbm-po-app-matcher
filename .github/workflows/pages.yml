@@ -56,3 +56,27 @@ jobs:
           path: _site
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Re-run the full test suite against the published URL to prove the live site works.
+  verify-live:
+    needs: deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - name: Wait for the new version to be served
+        run: |
+          for i in $(seq 1 30); do
+            curl -fsS "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" | grep -q 'v2\.' && exit 0
+            sleep 10
+          done
+          exit 1
+      - name: Test the live site
+        run: npx playwright test
+        env:
+          BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
