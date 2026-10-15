@@ -1,0 +1,16 @@
+﻿application_id,application_name,known_aliases,vendor_name,application_description
+APP-100,Microsoft 365,M365|O365|Office 365,Microsoft,Enterprise productivity suite
+APP-101,Atlassian Jira,JIRA|Jira Software|Jira Data Center,Atlassian,Issue and project tracking
+APP-102,ServiceNow ITSM,ITSM Pro|Now Platform ITSM,ServiceNow,IT service management
+APP-103,Salesforce Sales Cloud,SFDC Sales Cloud|Sales Cloud|Salesforce CRM,Salesforce,Sales force automation and CRM
+APP-104,Datadog Monitoring,Datadog|Infrastructure Monitoring,Datadog,Cloud observability and metrics
+APP-105,Adobe Acrobat,Acrobat Pro|Adobe Acrobat Professional,Adobe,PDF document editing
+APP-106,Power BI,Power BI Pro|Power BI Premium Per User,Microsoft,Business intelligence tools
+APP-107,Snowflake Data Platform,Snowflake|Snowflake Data Cloud,Snowflake,Cloud data warehouse
+APP-108,Adobe Creative Cloud,Creative Cloud|Adobe CC,Adobe,Creative design software suite
+APP-109,Microsoft SQL Server,SQL Server|MSSQL,Microsoft,Relational database server
+APP-110,Okta Workforce Identity,Okta SSO|Workforce Identity Cloud,Okta,Identity management and SSO
+APP-111,Atlassian Confluence,Confluence|Confluence Cloud,Atlassian,Knowledge management and collaboration
+APP-112,GitHub Copilot,GH Copilot|GitHub Copilot Business,GitHub|Microsoft,Developer AI assistant
+APP-113,Salesforce Marketing Cloud,SFMC|Marketing Cloud,Salesforce,Marketing automation and journeys
+APP-114,Microsoft Dynamics 365,Dynamics 365|D365,Microsoft,Business CRM and ERP

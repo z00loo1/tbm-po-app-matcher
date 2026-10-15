@@ -1,0 +1,9 @@
+node_modules/
+test-results/
+playwright-report/
+.DS_Store
+# Never commit real PO/APM exports. Only the fictional files in samples/ are tracked.
+*.csv
+*.xlsx
+*.xls
+!samples/*.csv

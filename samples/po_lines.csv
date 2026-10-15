@@ -1,0 +1,26 @@
+﻿po_line_id,vendor_name,po_title,line_description,existing_application_id
+PO-1001,Microsoft,M365 E5 user licensing,Microsoft 365 E5 productivity subscription,APP-100
+PO-1002,Atlassian,Jira Software Data Center renewal,Annual Jira Data Center license maintenance,APP-101
+PO-1003,ServiceNow,ITSM Pro annual renewal,Now Platform incident and change management seats,APP-102
+PO-1004,Salesforce,Sales Cloud Enterprise edition,SFDC sales CRM user licensing,APP-103
+PO-1005,Datadog,Datadog Infrastructure Monitoring,Metrics and observability platform subscription,APP-104
+PO-1006,Adobe,Adobe Acrobat Pro licenses,PDF editing and signature authoring seats,APP-105
+PO-1007,Microsoft,Power BI Pro seats,Business intelligence reporting subscriptions,APP-106
+PO-1008,Snowflake,Snowflake Data Cloud credits,Annual data platform consumption commitment,APP-107
+PO-2001,Microsoft,Office 365 E5 renewal,O365 licenses for employee productivity,
+PO-2002,Atlassian,JIRA subscription and add-ons,Jira software licenses and plugins,
+PO-2003,ServiceNow,Now Platform ITSM Pro,IT service management subscription renewal,
+PO-2004,Salesforce,SFDC Sales Cloud Licenses,CRM enterprise annual renewal,
+PO-2005,Datadog,Infrastructure Monitoring - annual commitment,Datadog observability platform services,
+PO-2006,Adobe,Creative Cloud All Apps subscription,Adobe CC design software for users,
+PO-2007,Microsoft,SQL Server Enterprise SA,MSSQL database licensing renewal,
+PO-2008,Microsoft,Power BI Premium Per User,BI reporting licenses and subscriptions,
+PO-2009,Okta,SSO workforce identity licenses,Okta Workforce Identity Cloud authentication,
+PO-2010,Microsoft,Enterprise subscription renewal,Annual enterprise software license renewal,
+PO-2011,Third-Party Reseller,Database platform support renewal,Renewal of production database support coverage,
+PO-2012,Atlassian,Confluence Cloud enterprise,Atlassian wiki knowledge management licenses,
+PO-2013,Microsoft,GitHub Copilot Business subscription,Developer AI coding assistant seats,
+PO-2014,Adobe,Acrobat professional license support,Adobe Acrobat PDF editor renewal,
+PO-2015,Salesforce,Marketing Cloud annual,SFMC marketing automation and journeys,
+PO-2016,Snowflake,Snowflake credits annual,Consumption credits for Snowflake data platform,
+PO-2017,CDW,Datadog observability licensing,Reseller fulfillment of Datadog annual subscription,

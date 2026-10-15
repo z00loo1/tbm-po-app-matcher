@@ -1,0 +1,12 @@
+{
+  "name": "tbm-po-app-matcher",
+  "private": true,
+  "description": "Test tooling only. The app itself (index.html) has no dependencies or build step.",
+  "scripts": {
+    "test": "playwright test",
+    "test:live": "BASE_URL=https://z00loo1.github.io/tbm-po-app-matcher/ playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.0"
+  }
+}

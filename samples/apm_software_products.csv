@@ -1,0 +1,15 @@
+﻿application_id,product_name,alternate_names,publisher,product_description
+APP-100,Microsoft 365 E5,M365 E5|O365 E5|Office 365 E5,Microsoft,Productivity license tier
+APP-101,Jira Software Data Center,JIRA DC|Atlassian Jira,Atlassian,Atlassian issue tracking license
+APP-102,ServiceNow ITSM Pro,Now ITSM|ITSM Pro,ServiceNow,Service management package
+APP-103,Sales Cloud Enterprise,SFDC Sales Cloud|Salesforce Sales Cloud,Salesforce,Sales CRM user license
+APP-104,Datadog Infrastructure Monitoring,Datadog Observability|Datadog Infrastructure,Datadog,Monitoring product
+APP-105,Adobe Acrobat Pro,Acrobat Professional|Acrobat PDF,Adobe,Acrobat authoring product
+APP-106,Power BI Premium Per User,Power BI PPU|PBI PPU,Microsoft,BI reporting seats
+APP-107,Snowflake Compute Credits,Snowflake Cloud Credits,Snowflake,Compute and storage platform credits
+APP-108,Adobe Creative Cloud All Apps,Creative Cloud All Apps|CC All Apps,Adobe,Graphic design suite
+APP-109,SQL Server Enterprise,MSSQL Enterprise|SQL Server Enterprise SA,Microsoft,Database server licenses
+APP-110,Okta Workforce Identity Cloud,Okta SSO|Workforce Identity,Okta,Workforce access platform
+APP-111,Confluence Cloud,Atlassian Confluence Cloud,Atlassian,Team wiki subscription
+APP-112,GitHub Copilot Business,Copilot for GitHub|GH Copilot,GitHub|Microsoft,Developer productivity AI
+APP-113,Salesforce Marketing Cloud,SFMC|Marketing Cloud Engagement,Salesforce,Email and campaign automation
